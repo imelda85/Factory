@@ -47,7 +47,7 @@ shinyUI(
                 
                 menuItem("Raw Data & Source Code",
                          icon = icon("download"),
-                         href = ""),
+                         href = "https://github.com/imelda85/Factory"),
                 
                 menuItem("About Me",
                          icon = icon("id-card"),
